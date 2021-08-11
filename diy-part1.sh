@@ -21,4 +21,4 @@
 # git clone https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk.git package/MentoHUST-OpenWrt-ipk
 # git clone https://github.com/BoringCat/luci-app-mentohust.git package/luci-app-mentohust
 # git clone https://github.com/pymumu/smartdns.git package/smartdns
-git clone https://github.com/xiaorouji/openwrt-passwall.git passwall
+git clone https://github.com/xiaorouji/openwrt-passwall.git package/passwall
